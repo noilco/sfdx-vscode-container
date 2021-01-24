@@ -11,6 +11,7 @@
     "settings": {
         "salesforcedx-vscode-apex.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
         "xml.java.home": "/usr/lib/jvm/java-11-openjdk-amd64",
-        "files.autoSave": "afterDelay"
+        "files.autoSave": "afterDelay",
+        "terminal.integrated.shell.linux": "/usr/bin/bash"
     }
 }
